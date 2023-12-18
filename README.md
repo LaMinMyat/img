@@ -1,2 +1,1 @@
-# img
-uodate
+{name="laminmyat",age="21"}
